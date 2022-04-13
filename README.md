@@ -138,6 +138,7 @@ After installation if Vm keeps booting from ISO, edit xml file to comment ISO di
 
   
 ### Sources:
+- https://acikkaynakfikirler.com/sanallastirma-yaparken-vmwareye-mecbur-degilsiniz/  MUTLAKA OKUYUN
 - https://www.fosslinux.com/48755/top-opensource-virtualization-software-for-linux.htm
 - https://www.xmodulo.com/use-kvm-command-line-debian-ubuntu.html
 - https://qemu-project.gitlab.io/qemu/system/images.html
