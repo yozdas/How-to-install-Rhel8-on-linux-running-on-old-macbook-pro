@@ -125,6 +125,17 @@ With any VNC client connect to KVM
 
 ## Note: 
 After installation if Vm keeps booting from ISO, edit xml file to comment ISO disk part, by doing this ISO image wont be mounted on next boot.
+
+## But you can use Virtual Machine Manager too
+
+`$ yum install virt-manager (Fedora)`
+
+`$ apt-get install virt-manager (Debian)`
+
+`$ emerge virt-manager (Gentoo)`
+
+`$ pkg_add virt-manager (OpenBSD)`
+
   
 ### Sources:
 - https://www.fosslinux.com/48755/top-opensource-virtualization-software-for-linux.htm
